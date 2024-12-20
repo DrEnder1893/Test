@@ -12,7 +12,7 @@
 		"isNationalWonder": false,
 		"requiredTech": "Industrialization"
 		"hurryCostModifier": 300,
-	},
+								},
 	{
 		"name": "Großwirtschaft",
 		"replaces": "Aqueduct",
