@@ -2,24 +2,24 @@
 	{
 		"name": "Fabrik",
 		"replaces": "Factory",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"uniqueTo": "Bundesrepublik Deutschland",
+		"cost": 300,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"culture": 0,
+		"science": 12,
+		"maintenance": 0,
+		"production": 10,
+		"isNationalWonder": false,
+		"requiredTech": "Industrialization"
+		"hurryCostModifier": 300,			},
+	{
+		"name": "Großwirtschaft",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Bundesrepublik Deutschland",
+		"cost": 50,
+		"hurryCostModifier": 160,
+		"happiness": 1,
+		"uniques": ["60% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
 ]
