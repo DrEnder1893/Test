@@ -10,9 +10,11 @@
 		"maintenance": 0,
 		"production": 10,
 		"isNationalWonder": false,
-		"requiredTech": "Industrialization"
 		"hurryCostModifier": 300,
-								},
+		"requiredTech": "Industrialization"			},
+	
+	
+	
 	{
 		"name": "Großwirtschaft",
 		"replaces": "Aqueduct",
