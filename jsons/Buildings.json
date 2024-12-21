@@ -9,8 +9,8 @@
 		"science": 12,
 		"maintenance": 0,
 		"production": 10,
-		"isNationalWonder": false
-		"hurryCostModifier": 300
+		"isNationalWonder": false,
+		"hurryCostModifier": 300,
 		"requiredTech": "Industrialization"			},
 	
 	
